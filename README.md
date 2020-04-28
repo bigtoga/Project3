@@ -114,9 +114,11 @@ Walkthroughs of various types of charts and syntax in d3:
 * [home page](http://techanjs.org/)
 * [samples page](https://github.com/andredumas/techan.js/wiki/Gallery)
 
-**Plotly-Express**
+**plotlyjs ** is built on top of d3
+* [home page](https://plotly.com/javascript/)
+* [samples page](https://plotly.com/javascript/financial-charts/)
 
-**Zing Charts** is a powerful JavaScript library. We used it in our last team project
+**ZingChart** is a powerful JavaScript library. We used it in our last team project
 Tons of features and can create interactive dashboards 
 * [home page](https://www.zingchart.com/)
 * [samples page](https://www.zingchart.com/gallery)
