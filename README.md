@@ -46,6 +46,7 @@ States are the world's three largest oil producers as of 2018.
 ### What we can trade (aka track and predict)
 1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
+* 2. [Yahoo Financial tracker](https://finance.yahoo.com/quote/CL%3DF/)
 2. **ETF oil funds**
 * 1. USO Oil Fund is most popular ([details](http://www.uscfinvestments.com/uso)). 
 "The fund's investment objective is to provide daily investment results corresponding to the daily percentage changes of the spot price of West Texas Intermediate (WTI) crude oil to be delivered to Cushing, Oklahoma."
