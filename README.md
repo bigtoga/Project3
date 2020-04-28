@@ -88,10 +88,14 @@ from oil than likely ever before in history?
 * 5. https://www.vaneck.com/etf/equity/oih/overview/
 6. Big Oil stocks directly
 
-### API possibilities 
-* Yahoo Finance API
+## API possibilities 
+### Quandl API
+Pros: easy, has good licensing and docs, plenty of example apps w Flask
+#### Exmaple apps
+* [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask)
+
+
+### Yahoo Finance API
 * * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * * * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * * * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
-* **Quandl API** - easy, has good licensing and docs, plenty of example apps w Flask
-* * * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask)
