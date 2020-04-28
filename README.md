@@ -11,6 +11,7 @@
 * Yahoo Finance API
 * * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * * * [Example app 1](https://pypi.org/project/yahoofinancials/)
+* * * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
 
 
 ## Possible idea: Crude oil collapse impact on strength of the US dollar
