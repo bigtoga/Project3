@@ -103,6 +103,8 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **TA-Lib** - 200+ market analysis methods in one handy `pip install TA-lib` module
 [github repo](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
+**PyFolio** - both as an EDA tool but also to generate charts dynamically [github repo](https://github.com/quantopian/pyfolio/tree/master/pyfolio)
+
 ### Misc other resources 
 **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
