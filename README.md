@@ -73,7 +73,7 @@ States are the world's three largest oil producers as of 2018.
 
 ## Possible idea: Crude oil collapse impact on strength of the US dollar
 
+## Possible Idea: Impact on crude oil collapse on Big Oil (BP, Valero, Shell, Exxon et al)
+
 ### News articles
 * https://www.metro.us/dollar-eases-as-oil/
-
-https://www.nasdaq.com/market-activity/index/osx
