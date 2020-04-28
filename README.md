@@ -104,14 +104,21 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 
 **PyFolio** - both as an EDA tool but also to generate charts dynamically [github repo](https://github.com/quantopian/pyfolio/tree/master/pyfolio)
 
-## Interactive Data Visualization 
+## Interactive Data Visualization (JavaScript)
 **d3** is incredibly powerful. d3 Stock market charting examples:
 Walkthroughs of various types of charts and syntax in d3:
-[example 1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
+[example 1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html) - 
 [example 2](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
 
-* 
+** TechanJS** - not as known/powerful as d3 but new-to-us so maybe bonus worthy 
+* [home page](http://techanjs.org/)
+
 **Plotly-Dash**
+
+**Zing Charts** is a powerful JavaScript library. We used it in our last team project
+Tons of features and can create interactive dashboards 
+* [home page](https://www.zingchart.com/)
+* [samples page](https://www.zingchart.com/gallery)
 
 ## Database
 Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataframe, save that to SQLite locally, then retrieve data from that 
