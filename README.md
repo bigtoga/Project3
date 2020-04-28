@@ -133,7 +133,14 @@ Several sites will host and serve your JavaScript layer
 * https://plotly.com/dash/
 
 **Flourish**
-* https://flourish.com
+* https://flourish.studio
+
+## Hosting - data
+
+**Kaggle**
+
+**data.world** 
+
 
 ## Hosting - App
 Python app on Heroku? Maybe Azure free?
