@@ -134,6 +134,11 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **ppsmatrix** as an alternative to correlation matrix
 * [Examples and how to](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
+## Javascript Frameworks
+**AzleJS** - looks interesting. Complete dashboard app using d3 here: https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713
+
+**React** - I'd love to learn. Super easy to deploy
+
 ## Interactive Data Visualization (JavaScript)
 **d3** is incredibly powerful. d3 Stock market charting examples:
 Walkthroughs of various types of charts and syntax in d3:
