@@ -137,8 +137,10 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 ## Interactive Data Visualization (JavaScript)
 **d3** is incredibly powerful. d3 Stock market charting examples:
 Walkthroughs of various types of charts and syntax in d3:
-[example 1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html) - 
-[example 2](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
+* Dashboard examples: [db1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html) - [db 2](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
+* Stacked area charts: [chart 1](https://observablehq.com/@d3/stacked-bar-chart)
+* [The big list of d3 demos - interactive](https://christopheviau.com/d3list/gallery.html)
+* [The big list of d3 demos - bulleted](https://christopheviau.com/d3list/)
 
 **TechanJS** - not as known/powerful as d3 but new-to-us so maybe bonus worthy 
 * [home page](http://techanjs.org/)
