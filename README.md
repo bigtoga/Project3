@@ -4,14 +4,12 @@
 
 ### Background 
 <details>
-<summary>Oil trading basics
+<summary>Oil trading basics</summary>
 <pre>General "How it works" articles:
 - Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
 - The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
 - The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
-
 </pre>
-</summary>
 </details>
 
 <details>
@@ -44,10 +42,10 @@ States are the world's three largest oil producers as of 2018.
 
 </pre>
 </details>
-</summary>
 
 ### What we can trade (aka track and predict)
 1. Oil futures
+* 1. Traded on New York Mercantile Exchange NYMEX
 2. ETF oil funds 
 * 1. USO Oil Fund is most popular ([details](http://www.uscfinvestments.com/uso)). 
 "The fund's investment objective is to provide daily investment results corresponding to the daily percentage changes of the spot price of West Texas Intermediate (WTI) crude oil to be delivered to Cushing, Oklahoma."
