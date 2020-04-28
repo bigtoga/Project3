@@ -104,6 +104,9 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 
 **PyFolio** - both as an EDA tool but also to generate charts dynamically [github repo](https://github.com/quantopian/pyfolio/tree/master/pyfolio)
 
+**ppsmatrix** as an alternative to correlation matrix
+* [Examples and how to](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
+
 ## Interactive Data Visualization (JavaScript)
 **d3** is incredibly powerful. d3 Stock market charting examples:
 Walkthroughs of various types of charts and syntax in d3:
