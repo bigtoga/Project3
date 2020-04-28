@@ -2,6 +2,21 @@
 
 ## Background 
 <details>
+<summary>Timeline of current crisis</summary>
+
+### Multiple timelines
+1. Normal Winter oil consumption in the US
+2. Coronavirus begins and how oil prices slumped 
+3. Russia walking out of OPEC meetings which caused Saudia Arabia to lower prices but increase production 
+
+https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
+
+![Oil timelines](https://en.m.wikipedia.org/wiki/File:WTI_price_2019-2020.png)
+
+
+</details>
+
+<details>
 <summary>Oil trading basics</summary>
 <p>
 
@@ -16,7 +31,10 @@
 
 <details>
 <summary>Crude oil classifications</summary>
- <pre>Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
+
+https://en.wikipedia.org/wiki/Benchmark_(crude_oil)
+
+### Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
 - Many types of crude oil
 - Naming is mix of location ("West Texas...") and/or characteristics  (sweet, sour, light, heavy)
 
@@ -37,12 +55,11 @@ Crude oil futures have a few classifications:
 is the easiest to distill into other products and it is traded 
 on the New York Mercantile Exchange (NYMEX). 
 
-* **Brent Blend Crude** is a grade of oil that is primarily traded in 
+**Brent Blend Crude** is a grade of oil that is primarily traded in 
 London and seeing increased interest. Russia, Saudi Arabia, and the United 
 States are the world's three largest oil producers as of 2018.
 **Brent is the most widely used benchmark for determining gasoline prices.**
 
-</pre>
 </details>
 
 # Questions we could answer
