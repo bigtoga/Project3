@@ -114,6 +114,11 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 * [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
 * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
+**Global oil consumption statistics**
+* https://www.ceicdata.com/en/indicator/china/oil-consumption
+
+**OpenWeather** for Winter consumption/temperature overlay w map?
+
 ## Python libraries to consider
 [Nice list of ten python finance analysis libraries](https://www.activestate.com/blog/top-10-python-packages-for-finance-and-financial-modeling/)
 
