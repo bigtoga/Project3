@@ -87,6 +87,8 @@ from oil than likely ever before in history?
 # What we can trade (aka track and predict)
 [Price of oil](https://en.wikipedia.org/wiki/Price_of_oil)
 
+[Current oil benchmark is WTI](https://en.wikipedia.org/wiki/Benchmark_(crude_oil))
+
 1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
 * 2. [Yahoo Financial tracker](https://finance.yahoo.com/quote/CL%3DF/)
