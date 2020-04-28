@@ -129,7 +129,7 @@ Several sites will host and serve your JavaScript layer
  
 ** observable platform
 
-** plotless dash platform 
+**plotly dash platform**
 * https://plotly.com/dash/
 
 **Flourish**
