@@ -5,6 +5,9 @@
 ### Background
 Notes FTA [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351): 
 
+Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
+* Many types of crude oil
+* Naming is mix of location ("West Texas...") and/or characteristics  (sweet, sour, light, heavy)
 Crude oil futures have a few classifications:
 **Light Sweet Crude Oil** is the most popular grade of crude oil being traded because it 
 is the easiest to distill into other products and it is traded 
