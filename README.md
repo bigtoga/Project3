@@ -91,12 +91,14 @@ from oil than likely ever before in history?
 ## API possibilities 
 ### Quandl API
 Pros: easy as it has its own [native Python module](https://www.quandl.com/tools/python), has good licensing and docs, plenty of example apps w Flask
-
-#### Exmaple apps
+S
+#### Example apps
 * [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
 * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
 ## Python libraries to consider
+[Nice list of ten python finance analysis libraries](https://www.activestate.com/blog/top-10-python-packages-for-finance-and-financial-modeling/)
+[List of a bunch of market-related libraries](https://awesomeopensource.com/project/wilsonfreitas/awesome-quant)
 **TA-Lib** - 200+ market analysis methods in one handy `pip install TA-lib` module
 [github repo](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
