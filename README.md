@@ -110,8 +110,9 @@ Walkthroughs of various types of charts and syntax in d3:
 [example 1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html) - 
 [example 2](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
 
-** TechanJS** - not as known/powerful as d3 but new-to-us so maybe bonus worthy 
+**TechanJS** - not as known/powerful as d3 but new-to-us so maybe bonus worthy 
 * [home page](http://techanjs.org/)
+* [samples page](https://github.com/andredumas/techan.js/wiki/Gallery)
 
 **Plotly-Dash**
 
