@@ -3,6 +3,12 @@
 ## Working idea - analysis on current crude oil crash
 
 ### Background 
+<details>
+   <summary>Click here to learn about oil trading basics
+       <pre>General "How it works" articles:
+- Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
+
+
 Notes FTA [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351): 
 
 <details>
