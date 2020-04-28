@@ -4,18 +4,18 @@
 
 ### Background 
 <details>
-   <summary>Click here to learn about oil trading basics
+   <summary>Oil trading basics
        <pre>General "How it works" articles:
 - Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
+- The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
+- The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
 
-       </pre>
+     </pre>
    </summary>
 </details>
 
-Notes FTA [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351): 
-
 <details>
-   <summary>Click here to see crude oil classifications</summary>
+   <summary>Crude oil classifications</summary>
       <pre>Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
 - Many types of crude oil
 - Naming is mix of location ("West Texas...") and/or characteristics  (sweet, sour, light, heavy)
@@ -31,9 +31,6 @@ Light and Heavy
 - oil’s relative density, based on the American Petroleum Institute (API) gravity
 - Light is inexpensive to produce 
 - Heavy crude can’t be produced, transported, and refined by conventional methods
-      </pre>
-   </details>
-</summary>
 
 Crude oil futures have a few classifications:
 **Light Sweet Crude Oil** is the most popular grade of crude oil being traded because it 
@@ -44,6 +41,10 @@ on the New York Mercantile Exchange (NYMEX).
 London and seeing increased interest. Russia, Saudi Arabia, and the United 
 States are the world's three largest oil producers as of 2018.
 **Brent is the most widely used benchmark for determining gasoline prices.**
+
+</pre>
+   </details>
+</summary>
 
 ### What we can trade (aka track and predict)
 1. Oil futures
