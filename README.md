@@ -63,6 +63,7 @@ States are the world's three largest oil producers as of 2018.
 6. Big Oil stocks directly
 
 ### Questions we could answer
+#### Historical analysis
 * Has there been an impact on [Big Oil](https://en.wikipedia.org/wiki/Big_Oil) valuations as crude oil dropped?
 * Which companies are the most/least impacted by crude oil drop?
 * How have Americans' 401k plans been impacted - by crude oil drop? By Big Oil value loss?
@@ -70,11 +71,13 @@ States are the world's three largest oil producers as of 2018.
 * What were the leading indicators? How could a savvy investor have predicted this?
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
 * What impact did COVID-19 have on already distressed prices?
-* (Machine learning / predicting the future) Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
-from oil than likely ever before in history?
 
-### Data authorities 
-* Trading is done on New York Mercantile Exchange (NYMEX)
+### Predicting the future (AI/ML)
+1. Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
+from oil than likely ever before in history?
+2. Do we expect the price of oil to be impacted by re-opening the country?
+3. What impact would a second wave of covid-19 have on future oil after a rebound?
+4. Are certain parts of the country more important to an oil rebound than others?
 
 ### API possibilities 
 * Yahoo Finance API
