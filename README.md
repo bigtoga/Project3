@@ -51,6 +51,7 @@ States are the world's three largest oil producers as of 2018.
 * What happened in the markets in 1957 before and after the last time oil went negative?
 * What were the leading indicators? How could a savvy investor have predicted this?
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
+* What impact has oil collapse had on the strength of the US dollar?
 
 ### COVID-19 Related
 1. What impact did COVID-19 have on already distressed prices?
@@ -88,11 +89,3 @@ from oil than likely ever before in history?
 * * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * * * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * * * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
-
-
-## Possible idea: Crude oil collapse impact on strength of the US dollar
-
-## Possible Idea: Impact on crude oil collapse on Big Oil (BP, Valero, Shell, Exxon et al)
-
-### News articles
-* https://www.metro.us/dollar-eases-as-oil/
