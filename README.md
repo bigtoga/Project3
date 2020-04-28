@@ -3,7 +3,7 @@
 ## Working idea - analysis on current crude oil crash
 
 ### Background
-* [https://www.thebalance.com/trading-crude-oil-futures-809351] (Basics of commodities trading)
+* [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351)
 
 ### Data authorities 
 
