@@ -68,8 +68,7 @@ from oil than likely ever before in history?
 4. Are certain parts of the country more important to an oil rebound than others?
 5. If COVID-19 never happened, would oil still have gone negative?
 
-
-### What we can trade (aka track and predict)
+## What we can trade (aka track and predict)
 1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
 * 2. [Yahoo Financial tracker](https://finance.yahoo.com/quote/CL%3DF/)
@@ -98,11 +97,13 @@ S
 
 ## Python libraries to consider
 [Nice list of ten python finance analysis libraries](https://www.activestate.com/blog/top-10-python-packages-for-finance-and-financial-modeling/)
+
 [List of a bunch of market-related libraries](https://awesomeopensource.com/project/wilsonfreitas/awesome-quant)
+
 **TA-Lib** - 200+ market analysis methods in one handy `pip install TA-lib` module
 [github repo](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
-### Yahoo Finance API
-* * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
-* * * [Example app 1](https://pypi.org/project/yahoofinancials/)
-* * * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
+### Misc other resources 
+**Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
+* [Example app 1](https://pypi.org/project/yahoofinancials/)
+* [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
