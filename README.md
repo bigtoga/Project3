@@ -44,21 +44,33 @@ States are the world's three largest oil producers as of 2018.
 </details>
 
 ### What we can trade (aka track and predict)
-1. Oil futures
+1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
-2. ETF oil funds 
+2. **ETF oil funds**
 * 1. USO Oil Fund is most popular ([details](http://www.uscfinvestments.com/uso)). 
 "The fund's investment objective is to provide daily investment results corresponding to the daily percentage changes of the spot price of West Texas Intermediate (WTI) crude oil to be delivered to Cushing, Oklahoma."
-3. ETF index funds that are based on oil and energy-based commodities 
+3. **ETF index funds** that are based on oil and energy-based commodities 
 * 1. iShares Global Energy Sector Index Fund (IXC)
-4. ETF mutual funds based on oil and energy 
+4. **ETF mutual funds** based on oil and energy 
 * 1. T. Rowe Price New Era Fund (PRNEX), an energy-based mutual fund. 
-5. ETF indexes that track the oil & gas sector
+5. **ETF indexes** that track the oil & gas sector
 * 1. SPDR S&P Oil & Gas Exploration & Production ETF (XOP)
 * 2. iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund (IEO)
 * 3. Invesco Dynamic Energy Exploration & Production Portfolio (PXE)
 * 4. NASDAQ OSX (Philx) - https://www.nasdaq.com/market-activity/index/osx
 * 5. https://www.vaneck.com/etf/equity/oih/overview/
+6. Big Oil stocks directly
+
+### Questions we could answer
+* Has there been an impact on Big Oil valuations as crude oil dropped?
+* Which companies are the most/least impacted by crude oil drop?
+* How have Americans' 401k plans been impacted - by crude oil drop? By Big Oil value loss?
+* What happened in the markets in 1957 before and after the last time oil went negative?
+* What were the leading indicators? How could a savvy investor have predicted this?
+* What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
+* What impact did COVID-19 have on already distressed prices?
+* Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
+from oil than likely ever before in history?
 
 ### Data authorities 
 * Trading is done on New York Mercantile Exchange (NYMEX)
