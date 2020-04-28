@@ -106,8 +106,11 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 
 ## Interactive Data Visualization 
 **d3** is incredibly powerful. d3 Stock market charting examples:
-* [Walkthrough of various types of charts and syntax](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
+Walkthroughs of various types of charts and syntax in d3:
+[example 1](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
+[example 2](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
 
+* 
 **Plotly-Dash**
 
 ## Database
