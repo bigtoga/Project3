@@ -8,6 +8,8 @@
 ### Data authorities 
 
 ### API possibilities 
+* Yahoo Finance API
+* * Python module `pip install yahoofinancials` [Example app](https://pypi.org/project/yahoofinancials/)
 
 
 ## Possible idea: Crude oil collapse impact on strength of the US dollar
