@@ -105,7 +105,8 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **PyFolio** - both as an EDA tool but also to generate charts dynamically [github repo](https://github.com/quantopian/pyfolio/tree/master/pyfolio)
 
 ## Interactive Data Visualization 
-**d3**
+**d3** is incredibly powerful. d3 Stock market charting examples:
+* [Walkthrough of various types of charts and syntax](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
 
 **Plotly-Dash**
 
