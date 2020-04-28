@@ -96,6 +96,9 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 * [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
 * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
+## Python libraries to consider
+**TA-Lib** - 200+ market analysis methods in one handy `pip install TA-lib` module
+[github repo](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
 ### Yahoo Finance API
 * * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
