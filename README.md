@@ -4,19 +4,19 @@
 
 ### Background 
 <details>
-   <summary>Oil trading basics
-       <pre>General "How it works" articles:
+<summary>Oil trading basics
+<pre>General "How it works" articles:
 - Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
 - The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
 - The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
 
-     </pre>
-   </summary>
+</pre>
+</summary>
 </details>
 
 <details>
-   <summary>Crude oil classifications</summary>
-      <pre>Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
+<summary>Crude oil classifications</summary>
+ <pre>Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
 - Many types of crude oil
 - Naming is mix of location ("West Texas...") and/or characteristics  (sweet, sour, light, heavy)
 
@@ -43,7 +43,7 @@ States are the world's three largest oil producers as of 2018.
 **Brent is the most widely used benchmark for determining gasoline prices.**
 
 </pre>
-   </details>
+</details>
 </summary>
 
 ### What we can trade (aka track and predict)
@@ -59,6 +59,7 @@ States are the world's three largest oil producers as of 2018.
 * 1. SPDR S&P Oil & Gas Exploration & Production ETF (XOP)
 * 2. iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund (IEO)
 * 3. Invesco Dynamic Energy Exploration & Production Portfolio (PXE)
+* 4. NASDAQ OSX (Philx) - https://www.nasdaq.com/market-activity/index/osx
 
 ### Data authorities 
 * Trading is done on New York Mercantile Exchange (NYMEX)
@@ -75,3 +76,4 @@ States are the world's three largest oil producers as of 2018.
 ### News articles
 * https://www.metro.us/dollar-eases-as-oil/
 
+https://www.nasdaq.com/market-activity/index/osx
