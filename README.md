@@ -62,7 +62,7 @@ States are the world's three largest oil producers as of 2018.
 6. Big Oil stocks directly
 
 ### Questions we could answer
-* Has there been an impact on Big Oil valuations as crude oil dropped?
+* Has there been an impact on [Big Oil](https://en.wikipedia.org/wiki/Big_Oil) valuations as crude oil dropped?
 * Which companies are the most/least impacted by crude oil drop?
 * How have Americans' 401k plans been impacted - by crude oil drop? By Big Oil value loss?
 * What happened in the markets in 1957 before and after the last time oil went negative?
