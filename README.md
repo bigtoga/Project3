@@ -70,7 +70,9 @@ States are the world's three largest oil producers as of 2018.
 * What happened in the markets in 1957 before and after the last time oil went negative?
 * What were the leading indicators? How could a savvy investor have predicted this?
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
-* What impact did COVID-19 have on already distressed prices?
+
+#### COVID-19 Related
+1. What impact did COVID-19 have on already distressed prices?
 
 ### Predicting the future (AI/ML)
 1. Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
@@ -78,6 +80,7 @@ from oil than likely ever before in history?
 2. Do we expect the price of oil to be impacted by re-opening the country?
 3. What impact would a second wave of covid-19 have on future oil after a rebound?
 4. Are certain parts of the country more important to an oil rebound than others?
+5. If COVID-19 never happened, would oil still have gone negative?
 
 ### API possibilities 
 * Yahoo Finance API
