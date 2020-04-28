@@ -90,9 +90,11 @@ from oil than likely ever before in history?
 
 ## API possibilities 
 ### Quandl API
-Pros: easy, has good licensing and docs, plenty of example apps w Flask
+Pros: easy as it has its own [native Python module](https://www.quandl.com/tools/python), has good licensing and docs, plenty of example apps w Flask
+
 #### Exmaple apps
-* [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask)
+* [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
+* [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
 
 ### Yahoo Finance API
