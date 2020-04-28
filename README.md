@@ -161,7 +161,8 @@ Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataf
 ## Hosting - Viz
 Several sites will host and serve your JavaScript layer
  
-** observable platform
+**observable platform**
+* * [How to deploy d3 visualizations on the observable platform](https://towardsdatascience.com/creating-web-applications-with-d3-observable-d5c53467ff12)
 
 **plotly dash platform**
 * https://plotly.com/dash/
