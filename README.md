@@ -5,12 +5,13 @@
 ### Background 
 <details>
 <summary>Oil trading basics</summary>
-
-General "How it works" articles: 
+<p>
+#### General "How it works" articles: 
 
 - Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
 - The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
 - The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
+</p>
 </details>
 
 <details>
