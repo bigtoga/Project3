@@ -8,6 +8,13 @@ Notes FTA [Basics of commodities trading](https://www.thebalance.com/trading-cru
 Notes FTA [Crude oil classifications](https://www.thebalance.com/the-basics-of-crude-oil-classification-1182570):
 * Many types of crude oil
 * Naming is mix of location ("West Texas...") and/or characteristics  (sweet, sour, light, heavy)
+* * Sweet and Sour
+* * * Crude oil with low sulfur content is classified as “sweet.” 
+* * * Crude oil with a higher sulfur content is classified as “sour.” 
+* * * Sulfur content is considered an undesirable characteristic for both processing and end-product quality. 
+Therefore, **sweet crude is typically more desirable and valuable than sour crude**. 
+* * * West Texas Intermediate (WTI) crude oil is a good example of sweet crude oil, while oil from Canada and the U.S. Gulf Coast tends to be sour.
+
 Crude oil futures have a few classifications:
 **Light Sweet Crude Oil** is the most popular grade of crude oil being traded because it 
 is the easiest to distill into other products and it is traded 
