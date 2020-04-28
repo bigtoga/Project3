@@ -48,8 +48,12 @@ States are the world's three largest oil producers as of 2018.
 ### What we can trade (aka track and predict)
 1. Oil futures
 2. ETF oil funds 
-2. 1. USO Oil Fund is most popular ([details](http://www.uscfinvestments.com/uso)
-3. ETF index funds that include oil and energy-based commodities 
+* 1. USO Oil Fund is most popular ([details](http://www.uscfinvestments.com/uso)). 
+"The fund's investment objective is to provide daily investment results corresponding to the daily percentage changes of the spot price of West Texas Intermediate (WTI) crude oil to be delivered to Cushing, Oklahoma."
+3. ETF index funds that are based on oil and energy-based commodities 
+* 1. iShares Global Energy Sector Index Fund (IXC)
+4. ETF mutual funds based on oil and energy 
+* 1. T. Rowe Price New Era Fund (PRNEX), an energy-based mutual fund. 
 
 ### Data authorities 
 * Trading is done on New York Mercantile Exchange (NYMEX)
