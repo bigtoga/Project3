@@ -85,6 +85,8 @@ from oil than likely ever before in history?
 5. If COVID-19 never happened, would oil still have gone negative?
 
 # What we can trade (aka track and predict)
+[Price of oil](https://en.wikipedia.org/wiki/Price_of_oil)
+
 1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
 * 2. [Yahoo Financial tracker](https://finance.yahoo.com/quote/CL%3DF/)
