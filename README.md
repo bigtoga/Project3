@@ -58,6 +58,7 @@ States are the world's three largest oil producers as of 2018.
 * 2. iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund (IEO)
 * 3. Invesco Dynamic Energy Exploration & Production Portfolio (PXE)
 * 4. NASDAQ OSX (Philx) - https://www.nasdaq.com/market-activity/index/osx
+* 5. https://www.vaneck.com/etf/equity/oih/overview/
 
 ### Data authorities 
 * Trading is done on New York Mercantile Exchange (NYMEX)
