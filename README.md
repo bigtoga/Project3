@@ -114,7 +114,7 @@ Walkthroughs of various types of charts and syntax in d3:
 * [home page](http://techanjs.org/)
 * [samples page](https://github.com/andredumas/techan.js/wiki/Gallery)
 
-**Plotly-Dash**
+**Plotly-Express**
 
 **Zing Charts** is a powerful JavaScript library. We used it in our last team project
 Tons of features and can create interactive dashboards 
@@ -124,7 +124,18 @@ Tons of features and can create interactive dashboards
 ## Database
 Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataframe, save that to SQLite locally, then retrieve data from that 
 
-## Hosting 
+## Hosting - Viz
+Several sites will host and serve your JavaScript layer
+ 
+** observable platform
+
+** plotless dash platform 
+* https://plotly.com/dash/
+
+**Flourish**
+* https://flourish.com
+
+## Hosting - App
 Python app on Heroku? Maybe Azure free?
 
 ### Misc other resources 
