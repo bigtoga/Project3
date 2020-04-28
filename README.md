@@ -1,8 +1,6 @@
-# Project3 placeholder 
+# Project3 Working idea - analysis on current crude oil crash
 
-## Working idea - analysis on current crude oil crash
-
-### Background 
+## Background 
 <details>
 <summary>Oil trading basics</summary>
 <p>
@@ -47,8 +45,8 @@ States are the world's three largest oil producers as of 2018.
 </pre>
 </details>
 
-## Questions we could answer
-### Historical analysis
+# Questions we could answer
+## Historical analysis
 * Has there been an impact on [Big Oil](https://en.wikipedia.org/wiki/Big_Oil) valuations as crude oil dropped?
 * Which companies are the most/least impacted by crude oil drop?
 * How have Americans' 401k plans been impacted - by crude oil drop? By Big Oil value loss?
@@ -57,10 +55,10 @@ States are the world's three largest oil producers as of 2018.
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
 * What impact has oil collapse had on the strength of the US dollar?
 
-### COVID-19 Related
+## COVID-19 Related
 1. What impact did COVID-19 have on already distressed prices?
 
-### Predicting the future (AI/ML)
+## Predicting the future (AI/ML)
 1. Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
 from oil than likely ever before in history?
 2. Do we expect the price of oil to be impacted by re-opening the country?
@@ -68,7 +66,7 @@ from oil than likely ever before in history?
 4. Are certain parts of the country more important to an oil rebound than others?
 5. If COVID-19 never happened, would oil still have gone negative?
 
-## What we can trade (aka track and predict)
+# What we can trade (aka track and predict)
 1. **Oil futures**
 * 1. Traded on New York Mercantile Exchange NYMEX
 * 2. [Yahoo Financial tracker](https://finance.yahoo.com/quote/CL%3DF/)
@@ -87,7 +85,8 @@ from oil than likely ever before in history?
 * 5. https://www.vaneck.com/etf/equity/oih/overview/
 6. Big Oil stocks directly
 
-## API possibilities 
+# Tech Stacks
+## API / Data Sources 
 ### Quandl API
 Pros: easy as it has its own [native Python module](https://www.quandl.com/tools/python), has good licensing and docs, plenty of example apps w Flask
 
@@ -104,6 +103,17 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 [github repo](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 
 **PyFolio** - both as an EDA tool but also to generate charts dynamically [github repo](https://github.com/quantopian/pyfolio/tree/master/pyfolio)
+
+## Interactive Data Visualization 
+**d3**
+
+**Plotly-Dash**
+
+## Database
+Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataframe, save that to SQLite locally, then retrieve data from that 
+
+## Hosting 
+Python app on Heroku? Maybe Azure free?
 
 ### Misc other resources 
 **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
