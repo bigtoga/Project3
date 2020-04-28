@@ -3,9 +3,16 @@
 ## Working idea - analysis on current crude oil crash
 
 ### Background
-* [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351)
+Notes FTA [Basics of commodities trading](https://www.thebalance.com/trading-crude-oil-futures-809351): 
+
+Crude oil futures are traded on the New York Mercantile Exchange (NYMEX) using a few classifications:
+* **Brent Blend Crude** is a grade of oil that is primarily traded in 
+London and seeing increased interest. Russia, Saudi Arabia, and the United 
+States are the world's three largest oil producers as of 2018.
+**Brent is the most widely used benchmark for determining gasoline prices.**
 
 ### Data authorities 
+* Trading is done on New York Mercantile Exchange (NYMEX)
 
 ### API possibilities 
 * Yahoo Finance API
