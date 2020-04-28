@@ -53,6 +53,7 @@ States are the world's three largest oil producers as of 2018.
 * What happened in the markets in 1957 before and after the last time oil went negative?
 * What were the leading indicators? How could a savvy investor have predicted this?
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
+* * https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
 * What impact has oil collapse had on the strength of the US dollar?
 
 ## COVID-19 Related
