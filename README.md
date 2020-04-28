@@ -5,11 +5,10 @@
 ### Background 
 <details>
 <summary>Oil trading basics</summary>
-<pre>General "How it works" articles:
-- Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
-- The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
-- The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
-</pre>
+#### General "How it works" articles:
+* Investopedia "How to invest in oil" - https://www.investopedia.com/ask/answers/08/oil-as-investment.asp
+* The Balance "Investing in Oil ETFs" - https://www.thebalance.com/how-to-invest-in-oil-without-getting-your-hands-dirty-1214929
+* The Balance "Basics of commodities trading" - https://www.thebalance.com/trading-crude-oil-futures-809351
 </details>
 
 <details>
@@ -89,3 +88,5 @@ from oil than likely ever before in history?
 * * Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * * * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * * * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
+* **Quandl API** - easy, has good licensing and docs, plenty of example apps w Flask
+* * * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask)
