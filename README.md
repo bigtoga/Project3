@@ -69,7 +69,7 @@ States are the world's three largest oil producers as of 2018.
 * What were the leading indicators? How could a savvy investor have predicted this?
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
 * What impact did COVID-19 have on already distressed prices?
-* Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
+* (Machine learning / predicting the future) Do we expect a return to normalcy in Winter as more Americans will likely be at home and require heating 
 from oil than likely ever before in history?
 
 ### Data authorities 
