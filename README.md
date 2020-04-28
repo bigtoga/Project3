@@ -54,6 +54,10 @@ States are the world's three largest oil producers as of 2018.
 * 1. iShares Global Energy Sector Index Fund (IXC)
 4. ETF mutual funds based on oil and energy 
 * 1. T. Rowe Price New Era Fund (PRNEX), an energy-based mutual fund. 
+5. ETF indexes that track the oil & gas sector
+* 1. SPDR S&P Oil & Gas Exploration & Production ETF (XOP)
+* 2. iShares Dow Jones U.S. Oil & Gas Exploration & Production Index Fund (IEO)
+* 3. Invesco Dynamic Energy Exploration & Production Portfolio (PXE)
 
 ### Data authorities 
 * Trading is done on New York Mercantile Exchange (NYMEX)
