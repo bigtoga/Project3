@@ -62,7 +62,7 @@ States are the world's three largest oil producers as of 2018.
 
 </details>
 
-# Questions we could answer
+# Possible Questions we could answer
 ## Historical analysis
 * Has there been an impact on [Big Oil](https://en.wikipedia.org/wiki/Big_Oil) valuations as crude oil dropped?
 * Which companies are the most/least impacted by crude oil drop?
@@ -72,6 +72,7 @@ States are the world's three largest oil producers as of 2018.
 * What does global politics have to do with this price (Russia vs. Saudi's Arabia)?
 * * https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
 * What impact has oil collapse had on the strength of the US dollar?
+* What impact has this had on  Saudi Arabia's cash reserves? https://www.bloomberg.com/news/articles/2020-04-28/saudi-central-bank-fx-reserves-plunge-27-billion-in-march
 
 ## COVID-19 Related
 1. What impact did COVID-19 have on already distressed prices?
