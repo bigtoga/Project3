@@ -84,6 +84,9 @@ from oil than likely ever before in history?
 4. Are certain parts of the country more important to an oil rebound than others?
 5. If COVID-19 never happened, would oil still have gone negative?
 
+## Other tie-ins that might be interesting to explore (aka distractions)
+1. Has the demand for solar decreased as oil prices have slumped?
+
 <details>
 <summary>Possible data sources</summary>
 
