@@ -45,3 +45,9 @@ rate at that time
 * Machine learning - simple linear regression is likely all we need so Python 
 with sklearn is likely all that is needed
 
+# Example using a "Should you refinance now?" calculator
+https://www.nerdwallet.com/mortgages/refinance-calculator
+
+We could use this as our mock and just update it to
+use our machine learning projected mortgage 
+rates
