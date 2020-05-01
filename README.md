@@ -71,8 +71,6 @@ States are the world's three largest oil producers as of 2018.
 
 </details>
 
----
-
 </details>
 
 <details>
@@ -110,6 +108,7 @@ from oil than likely ever before in history?
 
 <details>
 <summary>Possible data sources</summary>
+
 # Possible data sources
 
 ---
