@@ -136,6 +136,7 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
 </details>
+
 <details><summary>Python libraries</summary>
 
 ## Python libraries to consider
@@ -158,7 +159,8 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **AzleJS** - looks interesting. Complete dashboard app using d3 here: https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713
 
 **React** - I'd love to learn. Super easy to deploy
-< /details>
+
+</details>
 <details><summary>Interactive data visualizations</summary>
 
 ## Interactive Data Visualization (JavaScript)
@@ -182,7 +184,7 @@ Tons of features and can create interactive dashboards
 * [home page](https://www.zingchart.com/)
 * [samples page](https://www.zingchart.com/gallery)
 
-/details>
+</details>
 <details><summary>Database</summary>
 
 ## Database
@@ -191,8 +193,7 @@ Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataf
 </details>
 <details><summary>Hosting</summary>
 
-
-## Hosting - Viz
+## Hosting - Visualizations
 Several sites will host and serve your JavaScript layer
  
 **observable platform**
