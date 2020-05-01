@@ -33,7 +33,7 @@ rate at that time
 
 # Web app architecture possibilities 
 * Data sources: 
-* * Quandl for Treasury bond history
+* * Quandl for Treasury bond history (TMUBMUSD10Y)
 * * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data
 * * Credit score => Mortgage rate offered mapping - TBD (for matching "user's current credit score" to what rate they likely be offered if refinancing)
 * Frontend - React
