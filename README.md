@@ -75,10 +75,8 @@ States are the world's three largest oil producers as of 2018.
 
 </details>
 
----
-
 <details>
-<summary>>Possible questions we could answer</summary>
+<summary>Possible questions we could answer</summary>
 
 # Possible Questions we could answer
 ## Historical analysis
