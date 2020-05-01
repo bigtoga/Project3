@@ -104,8 +104,6 @@ from oil than likely ever before in history?
 
 </details>
 
----
-
 <details>
 <summary>Possible data sources</summary>
 
@@ -116,7 +114,7 @@ from oil than likely ever before in history?
 <details><summary>Trading data</summary>
 
 ## Trading data
-
+1. **US dollar** vs. xyz currency
 1. **Oil futures**
 * 1. Oil futures/spot price traded on New York Mercantile Exchange NYMEX
 * * [Price of oil](https://en.wikipedia.org/wiki/Price_of_oil)
