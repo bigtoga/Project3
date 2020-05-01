@@ -13,7 +13,6 @@ https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
 
 ![Oil timelines](https://en.m.wikipedia.org/wiki/File:WTI_price_2019-2020.png)
 
-
 </details>
 
 <details>
@@ -217,12 +216,12 @@ Python app on Heroku? Maybe Azure free?
 
 </details>
 
+</details>
+
 ### Misc other resources 
 * 56-page energy impact report published Apr 28 - https://earther.gizmodo.com/these-5-charts-show-how-the-coronavirus-is-affecting-gl-1843179990
-**Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
+* **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
-
-**Apple Maps mobility dataset** - https://www.apple.com/covid19/mobility
-
-**JP Morgan's Big Data and AI Strategy (2018](https://faculty.sites.uci.edu/pjorion/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
+* **Apple Maps mobility dataset** - https://www.apple.com/covid19/mobility
+* **JP Morgan's Big Data and AI Strategy (2018](https://faculty.sites.uci.edu/pjorion/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
