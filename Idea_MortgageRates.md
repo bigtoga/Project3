@@ -9,6 +9,8 @@ represent a potential future buying opportunity for homeowners
 * Days later, on May 1, mortgage rates hit an all-time low, dropping 10 
 basis points [another article from Seeking Alpha](https://seekingalpha.com/news/3567005-mortgage-rates-sink-to-all-time-low)
 
+![Clear relationship](https://static.seekingalpha.com/uploads/2020/4/28/1112099-15881191373848379.png)
+
 ## What the presentation might look like
 1. Slide 1: Historical relationship between Treasury Bonds rate
 and mortgage rates  
