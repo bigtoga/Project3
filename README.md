@@ -1,7 +1,11 @@
 # Project3 Working idea - analysis on current crude oil crash
 
 <details>
-<summary><span style"font-weight: bold; font-size: 18px;"</span>Background</span></summary>
+<summary>Background</summary>
+
+## Background info
+
+---
 
 <details>
 <summary>Timeline of current crisis</summary>
@@ -67,9 +71,14 @@ States are the world's three largest oil producers as of 2018.
 
 </details>
 
+---
+
 </details>
 
 ---
+
+<details>
+<summary>>Possible questions we could answer</summary>
 
 # Possible Questions we could answer
 ## Historical analysis
@@ -97,10 +106,15 @@ from oil than likely ever before in history?
 ## Other tie-ins that might be interesting to explore (aka distractions)
 1. Has the demand for solar decreased as oil prices have slumped?
 
+</details>
+
 ---
 
 <details>
-<summary><h1>Possible data sources</h1></summary>
+<summary>Possible data sources</summary>
+# Possible data sources
+
+---
 
 <details><summary>Trading data</summary>
 
@@ -156,13 +170,18 @@ from oil than likely ever before in history?
 
 </details>
 
+---
+
 </details>
+
 
 <details>
 <summary>Tech stacks - options</summary>
 
 # Tech Stacks
 <details><summary>Data Sources</summary>
+
+---
 
 ## Data Sources 
 ### Quandl API
@@ -174,6 +193,9 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **OpenWeather** for Winter consumption/temperature overlay w map?
 
 </details>
+
+---
+
 <details><summary>Example reference apps</summary>
 
 #### Example apps
@@ -198,6 +220,9 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 * [Examples and how to](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
 </details>
+
+---
+
 <details><summary>JavaScript frameworks to look at</summary>
 
 ## Javascript Frameworks
@@ -206,6 +231,9 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **React** - I'd love to learn. Super easy to deploy
 
 </details>
+
+---
+
 <details><summary>Interactive data visualizations</summary>
 
 ## Interactive Data Visualization (JavaScript)
@@ -230,12 +258,18 @@ Tons of features and can create interactive dashboards
 * [samples page](https://www.zingchart.com/gallery)
 
 </details>
+
+---
+
 <details><summary>Database</summary>
 
 ## Database
 Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataframe, save that to SQLite locally, then retrieve data from that 
 
 </details>
+
+---
+
 <details><summary>Hosting</summary>
 
 ## Hosting - Visualizations
@@ -256,11 +290,12 @@ Several sites will host and serve your JavaScript layer
 
 **data.world** 
 
-
 ## Hosting - App
 Python app on Heroku? Maybe Azure free?
 
 </details>
+
+---
 
 </details>
 
