@@ -87,7 +87,9 @@ from oil than likely ever before in history?
 <details>
 <summary>Possible data sources</summary>
 
-# Trading
+<details><summary>Trading data</summary>
+
+## Trading data
 
 1. **Oil futures**
 * 1. Oil futures/spot price traded on New York Mercantile Exchange NYMEX
@@ -109,6 +111,17 @@ from oil than likely ever before in history?
 * 5. https://www.vaneck.com/etf/equity/oih/overview/
 6. Big Oil stocks directly
 * * From [wikipedia](https://en.wikipedia.org/wiki/Big_Oil) - "The supermajors are considered to be BP, Chevron, Eni, ExxonMobil, Royal Dutch Shell, Total, and ConocoPhillips."
+
+</details>
+
+<details><summary>Consumption data</summary>
+
+## Consumption data
+* Authoritative 56-page report from International Energy Association releases April 30
+* * [High level overview of the report](https://earther.gizmodo.com/these-5-charts-show-how-the-coronavirus-is-affecting-gl-1843179990)
+* * [IEA press release - "Global energy demand to plunge this year as a result of the biggest shock since the Second World War"](https://www.iea.org/news/global-energy-demand-to-plunge-this-year-as-a-result-of-the-biggest-shock-since-the-second-world-war)
+
+</details>
 
 </details>
 
@@ -219,7 +232,6 @@ Python app on Heroku? Maybe Azure free?
 </details>
 
 ### Misc other resources 
-* 56-page energy impact report published Apr 28 - https://earther.gizmodo.com/these-5-charts-show-how-the-coronavirus-is-affecting-gl-1843179990
 * **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
