@@ -85,6 +85,9 @@ from oil than likely ever before in history?
 4. Are certain parts of the country more important to an oil rebound than others?
 5. If COVID-19 never happened, would oil still have gone negative?
 
+<details>
+<summary>Possible data sources</summary>
+
 # What we can trade (aka track and predict)
 [Price of oil](https://en.wikipedia.org/wiki/Price_of_oil)
 
@@ -107,6 +110,11 @@ from oil than likely ever before in history?
 * 4. NASDAQ OSX (Philx) - https://www.nasdaq.com/market-activity/index/osx
 * 5. https://www.vaneck.com/etf/equity/oih/overview/
 6. Big Oil stocks directly
+
+</details>
+
+<details>
+<summary>Tech stacks - options</summary>
 
 # Tech Stacks
 ## API / Data Sources 
@@ -186,7 +194,10 @@ Several sites will host and serve your JavaScript layer
 ## Hosting - App
 Python app on Heroku? Maybe Azure free?
 
+</details>
+
 ### Misc other resources 
+* 56-page energy impact report published Apr 28 - https://earther.gizmodo.com/these-5-charts-show-how-the-coronavirus-is-affecting-gl-1843179990
 **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
