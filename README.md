@@ -96,7 +96,7 @@ from oil than likely ever before in history?
 ---
 
 <details>
-<summary>Possible data sources</summary>
+<summary><h1>Possible data sources</h1></summary>
 
 <details><summary>Trading data</summary>
 
