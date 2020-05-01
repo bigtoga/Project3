@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
 
 </details>
 
+----
+
 <details>
 <summary>Oil trading basics</summary>
 <p>
@@ -27,6 +29,8 @@ https://en.wikipedia.org/wiki/2020_Russia%E2%80%93Saudi_Arabia_oil_price_war
 
 </p>
 </details>
+
+---
 
 <details>
 <summary>Crude oil classifications</summary>
@@ -61,6 +65,8 @@ States are the world's three largest oil producers as of 2018.
 
 </details>
 
+---
+
 # Possible Questions we could answer
 ## Historical analysis
 * Has there been an impact on [Big Oil](https://en.wikipedia.org/wiki/Big_Oil) valuations as crude oil dropped?
@@ -86,6 +92,8 @@ from oil than likely ever before in history?
 
 ## Other tie-ins that might be interesting to explore (aka distractions)
 1. Has the demand for solar decreased as oil prices have slumped?
+
+---
 
 <details>
 <summary>Possible data sources</summary>
@@ -117,6 +125,8 @@ from oil than likely ever before in history?
 
 </details>
 
+---
+
 <details><summary>Consumption data</summary>
 
 ## Consumption data
@@ -132,6 +142,8 @@ from oil than likely ever before in history?
 * * * "... global energy-related CO2 emissions are set to fall by almost 8% in 2020, reaching their lowest level since 2010. This would be the largest decrease in emissions ever recorded"
 
 </details>
+
+---
 
 <details><summary>Map-related data</summary>
 
