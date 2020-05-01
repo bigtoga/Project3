@@ -1,6 +1,8 @@
 # Project3 Working idea - analysis on current crude oil crash
 
-## Background 
+<details>
+<summary><span style"font-weight: bold; font-size: 18px;"</span>Background</span></summary>
+
 <details>
 <summary>Timeline of current crisis</summary>
 
@@ -62,6 +64,8 @@ on the New York Mercantile Exchange (NYMEX).
 London and seeing increased interest. Russia, Saudi Arabia, and the United 
 States are the world's three largest oil producers as of 2018.
 **Brent is the most widely used benchmark for determining gasoline prices.**
+
+</details>
 
 </details>
 
