@@ -117,18 +117,26 @@ from oil than likely ever before in history?
 <summary>Tech stacks - options</summary>
 
 # Tech Stacks
-## API / Data Sources 
+<details><summary>Data Sources</summary>
+
+## Data Sources 
 ### Quandl API
 Pros: easy as it has its own [native Python module](https://www.quandl.com/tools/python), has good licensing and docs, plenty of example apps w Flask
-
-#### Example apps
-* [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
-* [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
 **Global oil consumption statistics**
 * https://www.ceicdata.com/en/indicator/china/oil-consumption
 
 **OpenWeather** for Winter consumption/temperature overlay w map?
+
+</details>
+<details><summary>Example reference apps</summary>
+
+#### Example apps
+* [Docker image w Flask, quandl](http://blog.statisticalfx.com/2019/04/30/48/)
+* [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
+
+</details>
+<details><summary></summary>
 
 ## Python libraries to consider
 [Nice list of ten python finance analysis libraries](https://www.activestate.com/blog/top-10-python-packages-for-finance-and-financial-modeling/)
