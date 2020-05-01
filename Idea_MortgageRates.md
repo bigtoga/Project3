@@ -2,9 +2,8 @@
 
 Why this is interesting 
 * In late April, [Seeking Alpha publishes a fantastic article](https://seekingalpha.com/article/4340921-why-you-should-wait-to-refinance) showing 
-the relationship between 10-year Treasury bonds and Mortgage rates. 
-This report highlights a large gap between
-current mortgage rates and Treasury rates. This gap appears to
+the relationship between 10-year Treasury yields and Mortgage rates. 
+This report highlights a large gap between current mortgage rates and Treasury yields. This gap appears to
 represent a potential future buying opportunity for homeowners
 * Days later, on May 1, mortgage rates hit an all-time low, dropping 10 
 basis points [another article from Seeking Alpha](https://seekingalpha.com/news/3567005-mortgage-rates-sink-to-all-time-low)
@@ -35,7 +34,7 @@ rate at that time
 
 # Web app architecture possibilities 
 * Data sources: 
-* * Quandl for Treasury bond history (TMUBMUSD10Y)
+* * Quandl for Treasury yield history (TMUBMUSD10Y)
 * * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data
 * * Credit score => Mortgage rate offered mapping - TBD (for matching "user's current credit score" to what rate they likely be offered if refinancing)
 * Frontend - React
