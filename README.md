@@ -118,8 +118,15 @@ from oil than likely ever before in history?
 
 ## Consumption data
 * Authoritative 56-page report from International Energy Association releases April 30
+* * [Just the highlights/charts from the report](https://iea.blob.core.windows.net/assets/74921671-51f5-4b5d-b88f-cd58b24ae23f/GER2020_PRESS_final.pdf)
+* * [The full 56-page report - "Global Energy Review 2020"](https://www.iea.org/news/global-energy-demand-to-plunge-this-year-as-a-result-of-the-biggest-shock-since-the-second-world-war)
 * * [High level overview of the report](https://earther.gizmodo.com/these-5-charts-show-how-the-coronavirus-is-affecting-gl-1843179990)
 * * [IEA press release - "Global energy demand to plunge this year as a result of the biggest shock since the Second World War"](https://www.iea.org/news/global-energy-demand-to-plunge-this-year-as-a-result-of-the-biggest-shock-since-the-second-world-war)
+* * Money quotes FTA:
+* * * "Based on an analysis of more than 100 days of real data so far this year, the IEA’s Global Energy Review includes estimates for how energy consumption and carbon dioxide (CO2) emissions trends are likely to evolve over the rest of 2020."
+* * * "This is a historic shock to the entire energy world. Amid today’s unparalleled health and economic crises, the plunge in demand for nearly all major fuels is staggering, especially for coal, oil and gas. Only renewables are holding up during the previously unheard-of slump in electricity use,” said Dr Fatih Birol, the IEA Executive Director. “It is still too early to determine the longer-term impacts, but the energy industry that emerges from this crisis will be significantly different from the one that came before.”
+* * * "The report projects that energy demand will fall 6% in 2020 – seven times the decline after the 2008 global financial crisis. In absolute terms, the decline is unprecedented – the equivalent of losing the entire energy demand of India, the world’s third largest energy consumer. "
+* * * "... global energy-related CO2 emissions are set to fall by almost 8% in 2020, reaching their lowest level since 2010. This would be the largest decrease in emissions ever recorded"
 
 </details>
 
