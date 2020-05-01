@@ -133,6 +133,11 @@ from oil than likely ever before in history?
 
 </details>
 
+<details><summary>Map-related data</summary>
+
+## Map-related data
+1. Apple Maps mobility dataset - https://www.apple.com/covid19/mobility
+
 </details>
 
 <details>
@@ -245,5 +250,4 @@ Python app on Heroku? Maybe Azure free?
 * **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
-* **Apple Maps mobility dataset** - https://www.apple.com/covid19/mobility
 * **JP Morgan's Big Data and AI Strategy (2018](https://faculty.sites.uci.edu/pjorion/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
