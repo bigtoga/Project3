@@ -18,7 +18,10 @@ and mortgage rates
 5. Slide 4: Final analysis and recommendations for group (e.g. "Use this app and it can tell you what week is likely to be the best week to lock in your refi rate"
 
 # Web app architecture possibilities 
-* Data sources: Quandl for Treasury bond history, Freddie Mac for current average mortgage rates, TBD for matching "user's current credit score" to what rate they likely qualify for
+* Data sources: 
+* * Quandl for Treasury bond history
+* * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data
+* * Credit score => Mortgage rate offered mapping - TBD (for matching "user's current credit score" to what rate they likely be offered if refinancing)
 * React-based app hat asks questions, stores data in json for duration of user session (I.e. their answers to the survey questions)
 * SQLite for data persistence 
 * Python for API calls, possible OCR read or web scrape (Freddie Mac data?)
