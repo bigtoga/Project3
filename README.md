@@ -136,7 +136,7 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 * [Example Heroku deployed Flask app](https://github.com/samuelgthorpe/hello-flask) (4 yrs old though)
 
 </details>
-<details><summary></summary>
+<details><summary>Python libraries</summary>
 
 ## Python libraries to consider
 [Nice list of ten python finance analysis libraries](https://www.activestate.com/blog/top-10-python-packages-for-finance-and-financial-modeling/)
@@ -151,10 +151,15 @@ Pros: easy as it has its own [native Python module](https://www.quandl.com/tools
 **ppsmatrix** as an alternative to correlation matrix
 * [Examples and how to](https://towardsdatascience.com/rip-correlation-introducing-the-predictive-power-score-3d90808b9598)
 
+</details>
+<details><summary>JavaScript frameworks to look at</summary>
+
 ## Javascript Frameworks
 **AzleJS** - looks interesting. Complete dashboard app using d3 here: https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713
 
 **React** - I'd love to learn. Super easy to deploy
+< /details>
+<details><summary>Interactive data visualizations</summary>
 
 ## Interactive Data Visualization (JavaScript)
 **d3** is incredibly powerful. d3 Stock market charting examples:
@@ -177,8 +182,15 @@ Tons of features and can create interactive dashboards
 * [home page](https://www.zingchart.com/)
 * [samples page](https://www.zingchart.com/gallery)
 
+/details>
+<details><summary>Database</summary>
+
 ## Database
 Tricky as we have to get hosting somewhere. Could have Flask create Pandas Dataframe, save that to SQLite locally, then retrieve data from that 
+
+</details>
+<details><summary>Hosting</summary>
+
 
 ## Hosting - Viz
 Several sites will host and serve your JavaScript layer
