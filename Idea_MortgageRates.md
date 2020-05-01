@@ -1,8 +1,8 @@
 # Possible project idea: Predicting future mortgage rates
 
 Why this is interesting 
-* In late April, [Seeking Alpha] publishes a fantastic article](https://seekingalpha.com/article/4340921-why-you-should-wait-to-refinance)
-showing relationship between 10-year Treasury bonds and Mortgage rates. 
+* In late April, [Seeking Alpha publishes a fantastic article](https://seekingalpha.com/article/4340921-why-you-should-wait-to-refinance) showing 
+the relationship between 10-year Treasury bonds and Mortgage rates. 
 This report highlights a large gap between
 current mortgage rates and Treasury rates. This gap appears to
 represent a potential future buying opportunity for homeowners
