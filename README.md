@@ -140,6 +140,8 @@ from oil than likely ever before in history?
 
 </details>
 
+</details>
+
 <details>
 <summary>Tech stacks - options</summary>
 
@@ -246,8 +248,13 @@ Python app on Heroku? Maybe Azure free?
 
 </details>
 
+<details>
+<summary>Misc other resources</summary>
+
 ### Misc other resources 
 * **Yahoo Finance API** is an Open source Python module [yahoofinancials](https://github.com/JECSand/yahoofinancials)
 * [Example app 1](https://pypi.org/project/yahoofinancials/)
 * [Beginner article/example](https://github.com/KDIncognito/YahooFinance)
 * **JP Morgan's Big Data and AI Strategy (2018](https://faculty.sites.uci.edu/pjorion/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
+
+</summary>
