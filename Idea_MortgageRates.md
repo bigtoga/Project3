@@ -28,7 +28,7 @@ represent the best and worst refinancing opportunities
 * * When the user drills into a given week, the app charts 
 future potential savings if they are able to lock on that 
 rate at that time 
-4. Demo of app 
+4. Demo of app (**note - I just bought https://refinance.win domain and we could use it for this**)
 5. Slide 4: Final analysis and recommendations for group (e.g. "Use this app and it can tell you what week is likely to be the best week to lock in your refi rate"
 
 # Web app architecture possibilities 
