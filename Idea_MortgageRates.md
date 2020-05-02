@@ -1,6 +1,6 @@
 # Possible project idea: Predicting future mortgage rates
 
-Logo idea:
+Logo idea using [this color palette](https://www.colourlovers.com/palette/4630980/Agir)
 ![ing](https://i.imgur.com/UC8xF3b_d.jpg?maxwidth=640&shape=thumb)
 
 Why this is interesting 
