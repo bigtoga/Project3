@@ -35,8 +35,8 @@ rate at that time
 # Web app architecture possibilities 
 * Data sources: 
 * * Quandl for Treasury yield history (TMUBMUSD10Y)
-* * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data
-* * Credit score => Mortgage rate offered mapping - TBD (for matching "user's current credit score" to what rate they likely be offered if refinancing)
+* * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data via https://www.quandl.com/data/FMAC-Freddie-Mac
+* * Credit score => Mortgage rate offered mapping - https://www.myfico.com/loan-center/home-mortgage-rate-comparison/default.aspx (for matching "user's current credit score" to what rate they likely be offered if refinancing)
 * Frontend - React
 * Data persistence - SQLite 
 * Data pulls - Python for API calls, possible OCR read or web scrape (Freddie Mac data?)
