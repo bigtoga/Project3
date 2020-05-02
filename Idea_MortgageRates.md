@@ -55,3 +55,5 @@ rates
 
 # Example inspiration for visualizations
 ![img](https://i.imgur.com/CppHhYr_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+
+Source: https://www.thebalance.com/mortgage-rates-by-credit-score-4171904
