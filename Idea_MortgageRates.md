@@ -52,3 +52,6 @@ https://www.nerdwallet.com/mortgages/refinance-calculator
 We could use this as our mock and just update it to
 use our machine learning projected mortgage 
 rates
+
+# Example inspiration for visualizations
+![img](https://i.imgur.com/CppHhYr_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
