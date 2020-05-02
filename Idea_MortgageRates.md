@@ -1,5 +1,8 @@
 # Possible project idea: Predicting future mortgage rates
 
+Logo idea:
+![ing](https://i.imgur.com/UC8xF3b_d.jpg?maxwidth=640&shape=thumb)
+
 Why this is interesting 
 * In late April, [Seeking Alpha publishes a fantastic article](https://seekingalpha.com/article/4340921-why-you-should-wait-to-refinance) showing 
 the relationship between 10-year Treasury yields and Mortgage rates. 
