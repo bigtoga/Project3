@@ -69,9 +69,29 @@ Tableau Public gallery search results:
 * [""](https://public.tableau.com/en-us/search/all/)
 * [""](https://public.tableau.com/en-us/search/all/)
 
-Interesting Tableau Public dashboards
-* [Show cost of a home by year if you bought at that year's avg interest rate](https://public.tableau.com/profile/serge.lamoureux#!/vizhome/HistoricalMortgageRates/HistoricalMortgageRates_1)
-* [Plot various types of loans with interactive chart](https://public.tableau.com/profile/leonard.kiefer#!/vizhome/RatesandMortgagePayments/RatesandPayments)
-* https://public.tableau.com/profile/daniel.o.neill5399#!/vizhome/MortgageDelinquency/Dashboard1
-* https://public.tableau.com/profile/nicholas.hansen#!/vizhome/Mortgagerates/Obligationsrenten
-* [Plot 15yr FRM vs. 5/1 ARM vs. 30yr FRM](https://public.tableau.com/profile/ih138#!/vizhome/MortgageRates_15662696282070/Sheet1)
+## Interesting Tableau Public dashboards
+### Mortgage rates
+1. [Show cost of a home by year if you bought at that year's avg interest rate](https://public.tableau.com/profile/serge.lamoureux#!/vizhome/HistoricalMortgageRates/HistoricalMortgageRates_1)
+1. [Plot various types of loans with interactive chart](https://public.tableau.com/profile/leonard.kiefer#!/vizhome/RatesandMortgagePayments/RatesandPayments)
+1. [Nice interactive walkthrough of rates by year](https://public.tableau.com/profile/recoverydecisionscience#!/vizhome/30YearFixedMortgageRates/MortgageRatesbyMonth)
+1. [Calculator example](https://public.tableau.com/profile/insight5128#!/vizhome/Mortgage/MortgagePaymentsCalculator)
+1. [Forecast through 2023](https://public.tableau.com/profile/allen.wong.cfa#!/vizhome/MortgageRates30Y/MortgageRates30Y)
+1. []()
+1. []()
+1. []()
+1. []()
+1. https://public.tableau.com/profile/daniel.o.neill5399#!/vizhome/MortgageDelinquency/Dashboard1
+1. https://public.tableau.com/profile/nicholas.hansen#!/vizhome/Mortgagerates/Obligationsrenten
+1. [Plot 15yr FRM vs. 5/1 ARM vs. 30yr FRM](https://public.tableau.com/profile/ih138#!/vizhome/MortgageRates_15662696282070/Sheet1)
+
+### Credit / FICO scores
+1. [Boxplot of FICO score vs. default status](https://public.tableau.com/profile/liwen6329#!/vizhome/FicoScoresvsDefaultStatus/Sheet1)
+1. [Histogram of FICO score distribution](https://public.tableau.com/profile/jackie.bacon#!/vizhome/MotoRefiChallenge-FicoHistogram/FicoHistogram)
+1. [FICO vs. interest rate offered](https://public.tableau.com/profile/zujian.ding#!/vizhome/FICOvsInt/Sheet1)
+1. []()
+
+### Dashboard designs
+1. [Nice with multiple interactives](https://public.tableau.com/profile/onenumber#!/vizhome/CreditUnionHousingAffordabilityReport/Howishousingaffordabilityinourcommunities)
+
+### Misc interesting
+1. [Mockup of an app using Tableau](https://public.tableau.com/profile/onenumber#!/vizhome/FICOConcept/FICOScoreDashboard)
