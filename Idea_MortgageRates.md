@@ -60,3 +60,18 @@ rates
 ![img](https://i.imgur.com/CppHhYr_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
 Source: https://www.thebalance.com/mortgage-rates-by-credit-score-4171904
+
+Tableau Public gallery search results:
+* ["mortgage"](https://public.tableau.com/en-us/search/all/mortgage)
+* ["mortgage rates"](https://public.tableau.com/en-us/search/all/mortgage rates)
+* [""](https://public.tableau.com/en-us/search/all/)
+* [""](https://public.tableau.com/en-us/search/all/)
+* [""](https://public.tableau.com/en-us/search/all/)
+* [""](https://public.tableau.com/en-us/search/all/)
+
+Interesting Tableau Public dashboards
+* [Show cost of a home by year if you bought at that year's avg interest rate](https://public.tableau.com/profile/serge.lamoureux#!/vizhome/HistoricalMortgageRates/HistoricalMortgageRates_1)
+* [Plot various types of loans with interactive chart](https://public.tableau.com/profile/leonard.kiefer#!/vizhome/RatesandMortgagePayments/RatesandPayments)
+* https://public.tableau.com/profile/daniel.o.neill5399#!/vizhome/MortgageDelinquency/Dashboard1
+* https://public.tableau.com/profile/nicholas.hansen#!/vizhome/Mortgagerates/Obligationsrenten
+* [Plot 15yr FRM vs. 5/1 ARM vs. 30yr FRM](https://public.tableau.com/profile/ih138#!/vizhome/MortgageRates_15662696282070/Sheet1)
