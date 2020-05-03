@@ -51,11 +51,15 @@ rate at that time
 with sklearn is likely all that is needed
 
 # Data source possibilities
+## Average credit score by year/quarter
+1. Federal Reserve Bank of New York and Equifax Risk Score data - [Excel file for 2019 Q1](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/xls/hhd_c_report_2019q4.xlsx) - [main home page](https://www.newyorkfed.org/microeconomics/hhdc/background.html) - [Data dictionary](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/data_dictionary_HHDC.pdf) - [Analysts report](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2019q4.pdf)
+
+## Individual mortgage APR% by date
 1. [Home Mortgage Disclosure Act's "Modified Loan/Application Register (LAR)" data via API](https://cfpb.github.io/hmda-platform/#hmda-filing-api-authorization)
 * * Key columns: "Interest Rate", "Credit Score", "Income", "State", "County", "Action Taken", "Loan Type", "Loan Purpose", "Type of Purchaser", "Rate Spread", "Applicant or Borrower - Name and Version of Credit Scoring Model", "Debt-to-Income Ratio", "Combined Loan-to-Value Ratio", "Loan Term", "Introductory Rate Period", "Property Value", 
 * * [Schema](https://files.consumerfinance.gov/f/documents/cfpb_reportable-hmda-data_regulatory-and-reporting-overview-reference-chart-2019.pdf) - page 20 has "credit score" column
 * * [Headers only](https://ffiec.cfpb.gov/documentation/2019/modified-lar-header/)
-* * 
+* * Credit score and other sensitive data redacted
 
 # Example using a "Should you refinance now?" calculator
 https://www.nerdwallet.com/mortgages/refinance-calculator
