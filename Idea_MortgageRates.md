@@ -1,6 +1,7 @@
 # Possible project idea: Predicting future mortgage rates
 
 Logo idea using [this color palette](https://www.colourlovers.com/palette/4630980/Agir)
+
 ![ing](https://i.imgur.com/UC8xF3b_d.jpg?maxwidth=640&shape=thumb)
 
 Why this is interesting 
@@ -48,6 +49,13 @@ rate at that time
 * Hosting - Heroku because we can deploy "live" Python/Flask apps to it
 * Machine learning - simple linear regression is likely all we need so Python 
 with sklearn is likely all that is needed
+
+# Data source possibilities
+1. [Home Mortgage Disclosure Act's "Modified Loan/Application Register (LAR)" data via API](https://cfpb.github.io/hmda-platform/#hmda-filing-api-authorization)
+* * Key columns: "Interest Rate", "Credit Score", "Income", "State", "County", "Action Taken", "Loan Type", "Loan Purpose", "Type of Purchaser", "Rate Spread", "Applicant or Borrower - Name and Version of Credit Scoring Model", "Debt-to-Income Ratio", "Combined Loan-to-Value Ratio", "Loan Term", "Introductory Rate Period", "Property Value", 
+* * [Schema](https://files.consumerfinance.gov/f/documents/cfpb_reportable-hmda-data_regulatory-and-reporting-overview-reference-chart-2019.pdf) - page 20 has "credit score" column
+* * [Headers only](https://ffiec.cfpb.gov/documentation/2019/modified-lar-header/)
+* * 
 
 # Example using a "Should you refinance now?" calculator
 https://www.nerdwallet.com/mortgages/refinance-calculator
