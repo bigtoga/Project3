@@ -18,7 +18,7 @@ basis points [another article from Seeking Alpha](https://seekingalpha.com/news/
 1. Slide 1: Historical relationship between Treasury Bonds rate
 and mortgage rates  
 2. Slide 2: Machine learning predictions for next several weeks/months/etc
-3. Slide 3: App architecture overview of our "When should you refinance your home?" app. 
+3. Slide 3: App architecture overview of our **"When should you refinance your home?"** app. 
 * * The app asks a series of questions related to
 current home financing ("How much do you owe? What interest rate? 
 How many more years? What is your credit score?")
@@ -33,7 +33,7 @@ represent the best and worst refinancing opportunities
 * * When the user drills into a given week, the app charts 
 future potential savings if they are able to lock on that 
 rate at that time 
-4. Demo of app (**note - I just bought https://refinance.win domain and we could use it for this**)
+4. Demo of app
 5. Slide 4: Final analysis and recommendations for group (e.g. "Use this app and it can tell you what week is likely to be the best week to lock in your refi rate"
 
 # Web app architecture possibilities 
