@@ -37,11 +37,7 @@ rate at that time
 5. Slide 4: Final analysis and recommendations for group (e.g. "Use this app and it can tell you what week is likely to be the best week to lock in your refi rate"
 
 # Web app architecture possibilities 
-* Data sources: 
-* * Quandl for Treasury yield history (TMUBMUSD10Y)
-* * Current mortgage rates - either "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" or Freddie Mac data via https://www.quandl.com/data/FMAC-Freddie-Mac
-* * Credit score => Mortgage rate offered mapping - https://www.myfico.com/loan-center/home-mortgage-rate-comparison/default.aspx (for matching "user's current credit score" to what rate they likely be offered if refinancing)
-* Frontend - React
+* Frontend - React? 
 * Data persistence - SQLite 
 * Data pulls - Python for API calls, possible OCR read or web scrape (Freddie Mac data?)
 * Endpoints - Flask
@@ -51,8 +47,17 @@ rate at that time
 with sklearn is likely all that is needed
 
 # Data source possibilities
-## Average credit score by year/quarter
+## Treasury yield history
+* [Quandl for Treasury yield history (TMUBMUSD10Y)](https://www.quandl.com/data/FRED/DGS10-10-Year-Treasury-Constant-Maturity-Rate)
+
+## Current mortgage rates
+* Freddie Mac data - [30-yr fixed monthly avg API](https://www.quandl.com/data/FMAC-Freddie-Mac) - [30yr fixed monthly avg tables](http://www.freddiemac.com/pmms/pmms30.html)
+* "Bankrate.com U.S. Home Mortgage 30-Year Fixed National Average Index" 
+
+* * Credit score => Mortgage rate offered mapping - https://www.myfico.com/loan-center/home-mortgage-rate-comparison/default.aspx (for matching "user's current credit score" to what rate they likely be offered if refinancing)
+## Credit scores for mortgages
 1. Federal Reserve Bank of New York and Equifax Risk Score data - [Excel file for 2019 Q1](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/xls/hhd_c_report_2019q4.xlsx) - [main home page](https://www.newyorkfed.org/microeconomics/hhdc/background.html) - [Data dictionary](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/data_dictionary_HHDC.pdf) - [Analysts report](https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2019q4.pdf)
+2. [Crowd-sourced mortgage data](https://rate.exposed/)
 
 ## Individual mortgage APR% by date
 1. [Home Mortgage Disclosure Act's "Modified Loan/Application Register (LAR)" data via API](https://cfpb.github.io/hmda-platform/#hmda-filing-api-authorization)
