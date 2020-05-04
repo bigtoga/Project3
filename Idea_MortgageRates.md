@@ -93,10 +93,6 @@ Tableau Public gallery search results:
 1. [Nice interactive walkthrough of rates by year](https://public.tableau.com/profile/recoverydecisionscience#!/vizhome/30YearFixedMortgageRates/MortgageRatesbyMonth)
 1. [Calculator example](https://public.tableau.com/profile/insight5128#!/vizhome/Mortgage/MortgagePaymentsCalculator)
 1. [Forecast through 2023](https://public.tableau.com/profile/allen.wong.cfa#!/vizhome/MortgageRates30Y/MortgageRates30Y)
-1. []()
-1. []()
-1. []()
-1. []()
 1. https://public.tableau.com/profile/daniel.o.neill5399#!/vizhome/MortgageDelinquency/Dashboard1
 1. https://public.tableau.com/profile/nicholas.hansen#!/vizhome/Mortgagerates/Obligationsrenten
 1. [Plot 15yr FRM vs. 5/1 ARM vs. 30yr FRM](https://public.tableau.com/profile/ih138#!/vizhome/MortgageRates_15662696282070/Sheet1)
@@ -112,3 +108,18 @@ Tableau Public gallery search results:
 
 ### Misc interesting
 1. [Mockup of an app using Tableau](https://public.tableau.com/profile/onenumber#!/vizhome/FICOConcept/FICOScoreDashboard)
+
+### Action Items
+| Step  | √ | Requirement |
+| :---: | :---: | :--- 
+| 01 | √  | Jupyter Notebook showing relationship between Treasury Yield rate and 30yr Fixed Rate Mortgage
+| 02 |  | Web Scraper to scrape/store today's myFICO ranges for FICO credit scores to avg mortgage rate
+| 03 |  | 
+| 04 |  | 
+| 05 |  | 
+| 06 |  | 
+| 07 |  | 
+| 08 |  | 
+| 09 |  | 
+| 10 |  | 
+
