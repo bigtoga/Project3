@@ -13,9 +13,18 @@ Out of scope for this project
 2. New York Fed average interest rates
 3. myFICO current today's score
 
+## Possible Scope Creep
+1. Comparing 2008 mortgage/housing data to today
+2. Normal vs. outlier data
+
 ## Rough Breakdown of Tasks
 1. Scott - web scraper for myFICO, identify additional options
-2. Sean - 
-3. Kip - 
-4. Joseph - 
-5. Justin - 
+2. Sean - What do you want to do/focus on?
+3. Kip - Validate Fannie Mae dataset; explore Fannie Mae dataset
+4. Joseph - EDA on Fannie Mae dataset?
+5. Justin - EDA on Fannie Mae dataset?
+
+## Suggestions for models
+1. Pick apart the dataset to find the features that are most correlated
+2. For the top variables, do we have skew or normal distribution?
+3. For the top variables, what segmentation do you see (if any)?
