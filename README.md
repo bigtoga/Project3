@@ -6,9 +6,9 @@
 Idea is to create an app that allows user interaction in which the user provides their information related to refinancing a mortgage (location, credit score, amount, years remaining, etc), and the output is a calendar showing likely rates that would be offered over the next X number of weeks, along with actionable "This is the likely week you should re-finance". Behind the scenes, the app uses machine learning to predict what interest rate the user would be offered based on their answers to the app's questions.
 
 ## Datasets to Be Used
-1. Fannie Mae "Single Family Home Loan Performance" dataset
-2. New York Fed average interest rates
-3. myFICO current today's score
+1. Fannie Mae [Single Family Home Loan Performance dataset](https://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html)
+2. New York Fed [average interest rates by quarter](https://www.newyorkfed.org/microeconomics/hhdc/background.html) - Excel file
+3. myFICO [current today's average mortgage rate for various credit scores](https://www.myfico.com/loan-center/home-mortgage-rate-comparison/default.aspx)
 
 ## Possible Scope Creep
 1. Comparing 2008 mortgage/housing data to today
