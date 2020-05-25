@@ -1,0 +1,221 @@
+﻿﻿{
+   "tabs": [
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://www.newyorkfed.org/medialibrary/media/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1836,
+         "incognito": false,
+         "index": 0,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Household Debt and Credit - FEDERAL RESERVE BANK of NEW YORK",
+         "url": "https://www.newyorkfed.org/microeconomics/hhdc/background.html",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://www.thebalance.com/static/3.103.0/icons/favicons/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1829,
+         "incognito": false,
+         "index": 1,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Mortgage Rates By Credit Score",
+         "url": "https://www.thebalance.com/mortgage-rates-by-credit-score-4171904",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "height": 1044,
+         "highlighted": false,
+         "id": 1844,
+         "incognito": false,
+         "index": 2,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Data Dictionary",
+         "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/data_dictionary_HHDC.pdf",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "height": 1044,
+         "highlighted": false,
+         "id": 1847,
+         "incognito": false,
+         "index": 3,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Microsoft PowerPoint - ReportData_template",
+         "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2019q4.pdf",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://rate.exposed/static/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1850,
+         "incognito": false,
+         "index": 4,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Mortgage Rate | Rate.Exposed",
+         "url": "https://rate.exposed/",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://cfpb.github.io/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1853,
+         "incognito": false,
+         "index": 5,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Authorization – API Documentation",
+         "url": "https://cfpb.github.io/hmda-platform/#hmda-filing-api-authorization",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "height": 1044,
+         "highlighted": false,
+         "id": 1857,
+         "incognito": false,
+         "index": 6,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "cfpb_reportable-hmda-data_regulatory-and-reporting-overview-reference-chart-2019.pdf",
+         "url": "https://files.consumerfinance.gov/f/documents/cfpb_reportable-hmda-data_regulatory-and-reporting-overview-reference-chart-2019.pdf",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://ffiec.cfpb.gov/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1860,
+         "incognito": false,
+         "index": 7,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "HMDA Documentation",
+         "url": "https://ffiec.cfpb.gov/documentation/2019/modified-lar-header/",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://www.nerdwallet.com/cdn/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1863,
+         "incognito": false,
+         "index": 8,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "Mortgage Refinance Calculator: Should I Refinance? - NerdWallet",
+         "url": "https://www.nerdwallet.com/mortgages/refinance-calculator",
+         "width": 2195,
+         "windowId": 1824
+      },
+      {
+         "active": false,
+         "audible": false,
+         "autoDiscardable": true,
+         "discarded": false,
+         "favIconUrl": "https://i.imgur.com/favicon.ico",
+         "height": 1044,
+         "highlighted": false,
+         "id": 1866,
+         "incognito": false,
+         "index": 9,
+         "mutedInfo": {
+            "muted": false
+         },
+         "pinned": false,
+         "selected": false,
+         "status": "complete",
+         "title": "CppHhYr_d.jpg (640×691)",
+         "url": "https://i.imgur.com/CppHhYr_d.jpg?maxwidth=640&shape=thumb&fidelity=medium",
+         "width": 2195,
+         "windowId": 1824
+      }
+   ]
+}
