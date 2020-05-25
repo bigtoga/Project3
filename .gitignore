@@ -1,8 +1,6 @@
 api_keys.py
-catboost_info
 
 # Byte-compiled / optimized / DLL files
-.ipynb_checkpoints
 __pycache__/
 *.py[cod]
 *$py.class
